@@ -1,0 +1,9 @@
+Predicting Boston Housing Prices
+
+Built Supervised Learning Model using Boston housing prices dataset to predict housing price in the Boston housing Area.
+
+lotted Decision Tree Regressor Learning Performance based on varying the depth of the tree Visualized Decision Tree Regressor Complexity
+Performance between training score, and testing score.
+
+Used: Data Exploration, Performance Metric, Coefficient Determination, Cross-Validation, Train-test Split, Model Complexity Analysis, Bias-
+Variance Tradeoff, K-Fold Cross Validation.
